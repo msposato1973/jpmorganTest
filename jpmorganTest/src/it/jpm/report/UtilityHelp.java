@@ -2,7 +2,6 @@ package it.jpm.report;
 
 import java.text.DateFormat;
 import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -14,11 +13,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
-import java.util.TreeMap;
-import java.util.stream.*;
 
 import it.jpm.model.Constant;
-import it.jpm.model.CoparetorReport;
 import it.jpm.model.DataReport;
 
 /***+
